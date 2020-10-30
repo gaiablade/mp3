@@ -1,0 +1,1 @@
+1. This code smell is "duplicated code." This smell can be removed by enclosing the lines in question into a function.
