@@ -1,3 +1,5 @@
 1. This code smell is "duplicated code." This smell can be removed by enclosing the lines in question into a function.
 
 3. This does not belong to the Node class. This smell could be a "feature envy" smell.
+
+4. This repeated code can be removed with a for loop

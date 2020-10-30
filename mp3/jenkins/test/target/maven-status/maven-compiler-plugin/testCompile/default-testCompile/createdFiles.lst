@@ -3,6 +3,7 @@ hudson/security/HudsonPrivateSecurityRealm2Test.class
 lib/form/ComboBoxTest/CompoundFieldComboBoxBuilder.stapler
 lib/form/RowVisibilityGroupTest.class
 hudson/cli/CopyJobCommandTest.class
+jenkins/model/MyTest.class
 hudson/model/QueueTest$1.class
 hudson/console/ConsoleAnnotatorTest$6.class
 hudson/tasks/ArtifactArchiverTest$1.class
