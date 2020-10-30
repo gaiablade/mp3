@@ -3,3 +3,5 @@
 3. This does not belong to the Node class. This smell could be a "feature envy" smell.
 
 4. This repeated code can be removed with a for loop
+
+6. Th Testing classes JenkinsRule and HudsonTestCase share a lot of methods. This can be refactored by making them inherit these functions from a shared base class.
